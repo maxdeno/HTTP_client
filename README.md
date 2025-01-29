@@ -20,5 +20,7 @@ It sends the GET request over a TCP connection
 
 
 # 🎈Implementation
-HTTP_Server:
-HTTP_client:
+HTTP_Server Running: <br>
+![Image](https://github.com/user-attachments/assets/3e4d1bf5-0c3a-4b2c-8b87-8707494e6f6d)
+HTTP_client Running: <br>
+![Image](https://github.com/user-attachments/assets/e6c75f8c-4814-4505-809c-667b81af3dd5)
